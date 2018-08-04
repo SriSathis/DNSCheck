@@ -1,6 +1,5 @@
 # Sample Node JS app
-
-
+This is Sathish Project
 A sample Node.js app using Express 4 to deploy in docker and get the info of pods spun through kubernetes
 
 # Routes
