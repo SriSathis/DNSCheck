@@ -1,3 +1,4 @@
+Sathish DNS Projects
 # Sample Node JS app
 A sample Node.js app using Express 4 to deploy in docker and get the info of pods spun through kubernetes
 
@@ -33,6 +34,3 @@ $ curl localhost:5000/podinfo
 {"Pod Host":"9f6936b2e368","Pod uptime":"2713 secs","Pod CPU load":[1.24951171875,0.4482421875,0.23583984375],"Pod Total Memory":"7.64 GB","Pod Free Memory":"5.93 GB","Pod CPU Count":4}
 ```
 
-Thanks
-Sathish
-Aline
