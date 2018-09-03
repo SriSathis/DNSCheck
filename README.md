@@ -33,4 +33,5 @@ $ curl localhost:5000/podinfo
 {"Pod Host":"9f6936b2e368","Pod uptime":"2713 secs","Pod CPU load":[1.24951171875,0.4482421875,0.23583984375],"Pod Total Memory":"7.64 GB","Pod Free Memory":"5.93 GB","Pod CPU Count":4}
 ```
 
-Thank You
+Thanks
+Sathish
