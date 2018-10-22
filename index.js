@@ -18,7 +18,7 @@ let client = new Client();
 app.set('port', (process.env.PORT || 5000))
 
 app.get('/', (request, response) => {
-    response.send('Hello World!')
+    response.send('Hello Node!')
 })
 
 app.get('/podinfo', (request, response) => {
