@@ -12,7 +12,7 @@ A sample Node.js app using Express 4 to deploy in docker and get the info of pod
 ```sh
 $ npm install 
 $ npm start
-> nodejs-sample@0.1.0 start C:\Users\Gokul\Desktop\NodeProj\node-js-sample
+> nodejs-sample@0.1.0 start C:\Users\SriSathish\Desktop\NodeProj\node-js-sample
 > node index.js
 
 Node app is running at 0.0.0.0:5000
